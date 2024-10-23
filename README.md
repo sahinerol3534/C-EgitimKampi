@@ -1,0 +1,1 @@
+C# Birinci ders tamamlandı
