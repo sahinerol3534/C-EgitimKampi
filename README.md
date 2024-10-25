@@ -3,6 +3,7 @@
 <br><br><br>
 
 <img src="https://github.com/user-attachments/assets/8c1e4c79-76e4-4dab-9f2f-0a9b13daf51b" width=100> <h2 style="display: inline;">C# Eğitim Kampı Ders 1:&nbsp; &nbsp; 01_MainSubject</h2>
+[01_MainSubject içindeki Program.cs dosyasını görüntüleyin]()
 ####    &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Giriş &nbsp;&nbsp;&nbsp; Merhaba Dünya &nbsp;&nbsp;&nbsp; Yazdırma Komutları &nbsp;&nbsp;&nbsp; String ve Int Değişkenler
 <br><br>
 
