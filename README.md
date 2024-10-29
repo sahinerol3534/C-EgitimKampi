@@ -9,7 +9,7 @@
     </p><br><br>
 
   <div style="display: flex; align-items: center;">
-        <img src="./resimler/01.jpeg" alt="" width="80px">
+        <img src="01.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 1: GİRİŞ</strong></span><br>
   </div> 
  
@@ -28,8 +28,8 @@
     </p>
     --------------------------------------------<br><br>
     <div style="display: flex; align-items: center;">
-        <img src="./resimler/02.jpeg" alt="" width="80px">
-        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 2: GİRİŞ</strong></span><br>
+        <img src="02.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 2: DEĞİŞKENLER</strong></span><br>
     </div>
     
 <p style="font-family: Arial; font-size: 12pt;">
@@ -45,7 +45,7 @@
 </p>
 --------------------------------------------<br><br>
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/03.jpeg" alt="" width="80px">
+        <img src="03.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 3: KARAR YAPILARI</strong></span><br>
   </div> 
  
@@ -58,7 +58,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/04.jpeg" alt="" width="80px">
+        <img src="04.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 4: DÖNGÜLER</strong></span><br>
   </div> 
  
@@ -71,7 +71,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/05.jpeg" alt="" width="80px">
+        <img src="05.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 5: UYGULAMALAR</strong></span><br>
   </div> 
  
@@ -84,7 +84,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/06.jpeg" alt="" width="80px">
+        <img src="06.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 6: DİZİLER</strong></span><br>
   </div> 
 
@@ -95,7 +95,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/07.jpeg" alt="" width="80px">
+        <img src="07.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 7: foreach DÖNGÜSÜ</strong></span><br>
   </div> 
  
@@ -108,7 +108,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/08.jpeg" alt="" width="80px">
+        <img src="08.jpeg" alt="" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 8: METOTLAR</strong></span><br>
   </div> 
  
@@ -128,7 +128,7 @@
 --------------------------------------------<br><br>
 
 <div style="display: flex; align-items: center;">
-        <img src="./resimler/09.jpeg" alt="Proje 9: Giriş" width="80px">
+        <img src="09.jpeg" alt="Proje 9: Giriş" width="80px">
         <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 9: C# ile VERİ TABANI BAĞLANTISI</strong></span><br>
   </div> 
  
