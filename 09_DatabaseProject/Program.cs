@@ -45,7 +45,6 @@ namespace _09_DatabaseProject
                 Console.Write("     ");
                 foreach (var item in row.ItemArray)
                 {
-                    
                     Console.Write(item.ToString());
                     if (i % 2 == 0) { 
                     Console.Write("- ");
