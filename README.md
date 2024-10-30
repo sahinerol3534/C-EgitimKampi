@@ -139,6 +139,18 @@
        
 </p>
 --------------------------------------------<br><br>
+<div style="display: flex; align-items: center;">
+        <img src="10.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 10: C# ile VERİ TABANI CRUD</strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  SQL Veri tabanına C# tarafından ulaşarak Create, Read, Update ve Delete komutları ile SQL de bulunan tablolara müdahale etmeyi öğrendik.
+       
+</p>
+--------------------------------------------<br><br>
 
 </body>
 </html>
