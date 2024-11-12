@@ -1,0 +1,9 @@
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
