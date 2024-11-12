@@ -152,5 +152,47 @@
 </p>
 --------------------------------------------<br><br>
 
+<div style="display: flex; align-items: center;">
+        <img src="11.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 11: C# Nesne Tabanlı Programa Giriş</strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  Katmanları Öğrendik ve Oluşturduk.
+       
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="12.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 12: C# SQL Tablosu Oluşturma</strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  C# kullanarak SQL tabloları oluşturmay öğrendik.
+       
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="13.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 13: C# Sınıfların İlişiklendirilmesi </strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; C# ile Oluşturulan tabloların biribiriyle ilişkilendirilmesi ve database bağlantıyı öğrendik.
+       
+</p>
+--------------------------------------------<br><br>
+
+
+
+
 </body>
 </html>
