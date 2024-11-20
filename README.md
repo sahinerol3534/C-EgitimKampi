@@ -191,6 +191,56 @@
 </p>
 --------------------------------------------<br><br>
 
+<div style="display: flex; align-items: center;">
+        <img src="14.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 14: C#  Orm Yapısı: Entity Framework DbFirst ve Model Oluşturma </strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; Entity Framework ile Model oluşturmayı öğrendik.
+       
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="15.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 15: C#  Entity Framework Metotları ile Proje Uygulaması </strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; Bir seyahat Acentası projesine başladık Entity Framework ile çalışmaya başladık.
+       
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="16.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 16: C#  Entity Framework Metotları ile Proje Uygulaması </strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; Bir seyahat Acentası projesine devam ettik Lokasyon Tablosu oluşturduk. Lokasyon listeleme, Lokasyon Ekleme, Lokasyon Silme, Lokasyon Update etme metodlarını öğrendik.
+       
+</p>
+--------------------------------------------<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
