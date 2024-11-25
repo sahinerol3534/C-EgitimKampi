@@ -230,6 +230,21 @@
 </p>
 --------------------------------------------<br><br>
 
+<div style="display: flex; align-items: center;">
+        <img src="17.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 17: C#  Entity Framework Metotları ile Proje Uygulaması </strong></span><br>
+</div> <br>
+
+ 
+<p> C# Eğitimizde Uyguladığımız Entity Framework çalışmalarımızdaki proje uygulamızda yapmış olduğumuz sorgular.</p>     
+
+<p style="font-family: Arial; font-size: 12pt;">
+    <img src="ders17.jpg" alt="" width="960px">
+
+      
+</p>
+--------------------------------------------<br><br>
+
 
 
 
