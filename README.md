@@ -262,7 +262,7 @@
 
 <div style="display: flex; align-items: center;">
         <img src="19.jpeg" alt="" width="80px">
-        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 19: C#  Businiss katmanı ve Logic işlemleri </strong></span><br>
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 19: C#  Businiss katmanı ve Logic kurallar </strong></span><br>
   </div> 
  
      
