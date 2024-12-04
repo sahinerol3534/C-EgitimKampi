@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4788D8E-DAE9-4111-B8C6-5CC5106EE077}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.businesslayer\\concrete\\catagorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4788D8E-DAE9-4111-B8C6-5CC5106EE077}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\concrete\\catagorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +34,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmStatistics.cs",
-              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADgvzIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T05:00:09.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmStatistics.cs [Design]",
-              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
-              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]",
-              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]",
+              "Title": "CatagoryManager.cs",
+              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CatagoryManager.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CatagoryManager.cs",
+              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Concrete\\CatagoryManager.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Concrete\\CatagoryManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T04:46:22.11Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-04T20:04:21.436Z",
+              "EditorCaption": ""
             }
           ]
         }

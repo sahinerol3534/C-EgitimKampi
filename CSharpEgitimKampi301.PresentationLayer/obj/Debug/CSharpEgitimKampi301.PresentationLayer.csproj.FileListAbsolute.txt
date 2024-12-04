@@ -7,3 +7,14 @@ C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentati
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmCatagory.resources
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
