@@ -274,6 +274,20 @@
 --------------------------------------------<br><br>
 
 
+<div style="display: flex; align-items: center;">
+        <img src="20.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 19: C#  Dependency Injection </strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; ..................... .
+       
+</p>
+--------------------------------------------<br><br>
+
+
 
 
 
