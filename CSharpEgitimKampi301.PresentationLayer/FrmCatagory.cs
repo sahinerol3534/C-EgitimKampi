@@ -17,9 +17,3 @@ namespace CSharpEgitimKampi301.PresentationLayer
             InitializeComponent();
         }
 
-        private void FrmCatagory_Load(object sender, EventArgs e)
-        {
-
-        }
-    }
-}
