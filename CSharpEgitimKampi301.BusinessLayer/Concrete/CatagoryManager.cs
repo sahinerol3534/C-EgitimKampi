@@ -17,25 +17,30 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
         {
             _catagoryDal = catagoryDal;
         }
+
         public void TDelete(Catagory entity)
         {
-            _catagoryDal.Delete(entity);
+           _catagoryDal.Delete(entity);
         }
+
         public List<Catagory> TGetAll()
         {
-            return _catagoryDal.GetAll();
+           return _catagoryDal.GetAll();
         }
+
         public Catagory TGetById(int id)
         {
             return _catagoryDal.GetById(id);
         }
+
         public void TInsert(Catagory entity)
         {
             _catagoryDal.Insert(entity);
         }
+
         public void TUpdate(Catagory entity)
         {
-           _catagoryDal.Update(entity);
+            _catagoryDal.Update(entity);
         }
     }
 }

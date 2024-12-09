@@ -30,165 +30,176 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.txtCatagoryId = new System.Windows.Forms.TextBox();
-            this.btnlist = new System.Windows.Forms.Button();
-            this.rdbAltive = new System.Windows.Forms.RadioButton();
+            this.btnList = new System.Windows.Forms.Button();
+            this.rbtActive = new System.Windows.Forms.RadioButton();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.txtCatagoryName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.rdbPassive = new System.Windows.Forms.RadioButton();
+            this.rbtnPassive = new System.Windows.Forms.RadioButton();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.btnUpdate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
-            this.btnGetbyId = new System.Windows.Forms.Button();
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.btnGetById = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(27, 51);
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(54, 28);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(136, 24);
+            this.label1.Size = new System.Drawing.Size(93, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Katagori ID";
             // 
             // txtCatagoryId
             // 
-            this.txtCatagoryId.Location = new System.Drawing.Point(171, 48);
-            this.txtCatagoryId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCatagoryId.Location = new System.Drawing.Point(220, 28);
+            this.txtCatagoryId.Margin = new System.Windows.Forms.Padding(4);
             this.txtCatagoryId.Name = "txtCatagoryId";
-            this.txtCatagoryId.Size = new System.Drawing.Size(218, 27);
+            this.txtCatagoryId.Size = new System.Drawing.Size(219, 27);
             this.txtCatagoryId.TabIndex = 1;
             // 
-            // btnlist
+            // btnList
             // 
-            this.btnlist.Location = new System.Drawing.Point(171, 191);
-            this.btnlist.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.btnlist.Name = "btnlist";
-            this.btnlist.Size = new System.Drawing.Size(218, 29);
-            this.btnlist.TabIndex = 2;
-            this.btnlist.Text = "Listele";
-            this.btnlist.UseVisualStyleBackColor = true;
+            this.btnList.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnList.Location = new System.Drawing.Point(220, 212);
+            this.btnList.Margin = new System.Windows.Forms.Padding(4);
+            this.btnList.Name = "btnList";
+            this.btnList.Size = new System.Drawing.Size(219, 42);
+            this.btnList.TabIndex = 2;
+            this.btnList.Text = "Listele";
+            this.btnList.UseVisualStyleBackColor = true;
+            this.btnList.Click += new System.EventHandler(this.btnList_Click);
             // 
-            // rdbAltive
+            // rbtActive
             // 
-            this.rdbAltive.AutoSize = true;
-            this.rdbAltive.Location = new System.Drawing.Point(171, 121);
-            this.rdbAltive.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.rdbAltive.Name = "rdbAltive";
-            this.rdbAltive.Size = new System.Drawing.Size(63, 24);
-            this.rdbAltive.TabIndex = 3;
-            this.rdbAltive.TabStop = true;
-            this.rdbAltive.Text = "Aktif";
-            this.rdbAltive.UseVisualStyleBackColor = true;
+            this.rbtActive.AutoSize = true;
+            this.rbtActive.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.rbtActive.Location = new System.Drawing.Point(220, 115);
+            this.rbtActive.Margin = new System.Windows.Forms.Padding(4);
+            this.rbtActive.Name = "rbtActive";
+            this.rbtActive.Size = new System.Drawing.Size(63, 24);
+            this.rbtActive.TabIndex = 3;
+            this.rbtActive.TabStop = true;
+            this.rbtActive.Text = "Aktif";
+            this.rbtActive.UseVisualStyleBackColor = true;
+            this.rbtActive.UseWaitCursor = true;
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(417, 48);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Location = new System.Drawing.Point(476, 28);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(553, 320);
+            this.dataGridView1.Size = new System.Drawing.Size(572, 435);
             this.dataGridView1.TabIndex = 4;
             // 
             // txtCatagoryName
             // 
-            this.txtCatagoryName.Location = new System.Drawing.Point(171, 83);
+            this.txtCatagoryName.Location = new System.Drawing.Point(220, 62);
             this.txtCatagoryName.Margin = new System.Windows.Forms.Padding(4);
             this.txtCatagoryName.Name = "txtCatagoryName";
-            this.txtCatagoryName.Size = new System.Drawing.Size(218, 27);
+            this.txtCatagoryName.Size = new System.Drawing.Size(219, 27);
             this.txtCatagoryName.TabIndex = 6;
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(27, 86);
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Location = new System.Drawing.Point(54, 62);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(136, 24);
+            this.label2.Size = new System.Drawing.Size(100, 20);
             this.label2.TabIndex = 5;
             this.label2.Text = "Katagori Adı";
             // 
             // rbtnPassive
             // 
-            // rdbPassive
-            // 
-            this.rdbPassive.AutoSize = true;
-            this.rdbPassive.Location = new System.Drawing.Point(321, 121);
-            this.rdbPassive.Margin = new System.Windows.Forms.Padding(4);
-            this.rdbPassive.Name = "rdbPassive";
-            this.rdbPassive.Size = new System.Drawing.Size(68, 24);
-            this.rdbPassive.TabIndex = 8;
-            this.rdbPassive.TabStop = true;
-            this.rdbPassive.Text = "Pasif";
-            this.rdbPassive.UseVisualStyleBackColor = true;
+            this.rbtnPassive.AutoSize = true;
+            this.rbtnPassive.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.rbtnPassive.Location = new System.Drawing.Point(350, 115);
+            this.rbtnPassive.Margin = new System.Windows.Forms.Padding(4);
+            this.rbtnPassive.Name = "rbtnPassive";
+            this.rbtnPassive.Size = new System.Drawing.Size(68, 24);
+            this.rbtnPassive.TabIndex = 7;
+            this.rbtnPassive.TabStop = true;
+            this.rbtnPassive.Text = "Pasif";
+            this.rbtnPassive.UseVisualStyleBackColor = true;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(171, 228);
+            this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnAdd.Location = new System.Drawing.Point(220, 262);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(4);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(218, 29);
-            this.btnAdd.TabIndex = 9;
+            this.btnAdd.Size = new System.Drawing.Size(219, 42);
+            this.btnAdd.TabIndex = 8;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = true;
-            // 
-            // btnUpdate
-            // 
-            this.btnUpdate.Location = new System.Drawing.Point(171, 302);
-            this.btnUpdate.Margin = new System.Windows.Forms.Padding(4);
-            this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(218, 29);
-            this.btnUpdate.TabIndex = 11;
-            this.btnUpdate.Text = "Update";
-            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(171, 265);
+            this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDelete.Location = new System.Drawing.Point(220, 312);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(4);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(218, 29);
-            this.btnDelete.TabIndex = 10;
+            this.btnDelete.Size = new System.Drawing.Size(219, 42);
+            this.btnDelete.TabIndex = 9;
             this.btnDelete.Text = "Sil";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
-            // btnGetbyId
+            // btnUpdate
             // 
-            this.btnGetbyId.Location = new System.Drawing.Point(171, 339);
-            this.btnGetbyId.Margin = new System.Windows.Forms.Padding(4);
-            this.btnGetbyId.Name = "btnGetbyId";
-            this.btnGetbyId.Size = new System.Drawing.Size(218, 29);
-            this.btnGetbyId.TabIndex = 12;
-            this.btnGetbyId.Text = "ID ye Göre Getir";
-            this.btnGetbyId.UseVisualStyleBackColor = true;
+            this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnUpdate.Location = new System.Drawing.Point(220, 371);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(4);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(219, 42);
+            this.btnUpdate.TabIndex = 10;
+            this.btnUpdate.Text = "Güncelle";
+            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // btnGetById
+            // 
+            this.btnGetById.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnGetById.Location = new System.Drawing.Point(220, 421);
+            this.btnGetById.Margin = new System.Windows.Forms.Padding(4);
+            this.btnGetById.Name = "btnGetById";
+            this.btnGetById.Size = new System.Drawing.Size(219, 42);
+            this.btnGetById.TabIndex = 11;
+            this.btnGetById.Text = "ID\'ye Göre Getir";
+            this.btnGetById.UseVisualStyleBackColor = true;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // FrmCatagory
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1000, 410);
-            this.Controls.Add(this.btnGetbyId);
+            this.ClientSize = new System.Drawing.Size(1081, 594);
+            this.Controls.Add(this.btnGetById);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.rdbPassive);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.rbtnPassive);
             this.Controls.Add(this.txtCatagoryName);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.rdbAltive);
-            this.Controls.Add(this.btnlist);
+            this.Controls.Add(this.rbtActive);
+            this.Controls.Add(this.btnList);
             this.Controls.Add(this.txtCatagoryId);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmCatagory";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.FrmCatagory_Load);
+            this.Text = "FrmCatagory";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -199,17 +210,15 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtCatagoryId;
-        private System.Windows.Forms.Button btnlist;
-        private System.Windows.Forms.RadioButton rdbAltive;
+        private System.Windows.Forms.Button btnList;
+        private System.Windows.Forms.RadioButton rbtActive;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox txtCatagoryName;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.RadioButton rdbPassive;
+        private System.Windows.Forms.RadioButton rbtnPassive;
         private System.Windows.Forms.Button btnAdd;
-        private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button btnDelete;
-        private System.Windows.Forms.Button btnGetbyId;
+        private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.Button btnGetById;
     }
 }
-

@@ -9,7 +9,11 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.DataAccessLayer.EntitiyFramework
 {
-    public class EfAdmindal : GenericRepository<Admin>, IAdminDal
+    public class EfAdminDal : GenericRepository<Admin>, IAdminDal
     {
     }
 }
+/*Ekle, Sil, Listele ve Id'ye göre getir genel metodlardır.
+// İçinde a harfi olmayan kullanıcaları listele o entity özel bir metodtur.
+o yüzden IAdminDal'dan da miras alınıyor
+*/

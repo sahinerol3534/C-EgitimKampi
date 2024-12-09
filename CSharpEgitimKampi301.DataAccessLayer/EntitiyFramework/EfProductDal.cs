@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.DataAccessLayer.EntitiyFramework
 {
-    internal class EfProductDal : GenericRepository<Product>, IProductDal
+    public class EfProductDal : GenericRepository<Product>, IproductDal
     {
     }
 }

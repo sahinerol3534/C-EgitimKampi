@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.BusinessLayer.Abstract
 {
-    public interface IproductService : IGenericService<Product>
+    public interface IProductService : IGenericService<Product>
     {
     }
 }

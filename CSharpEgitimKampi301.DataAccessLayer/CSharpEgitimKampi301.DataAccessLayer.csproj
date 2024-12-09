@@ -56,9 +56,9 @@
     <Compile Include="Abstract\ICustomerDal.cs" />
     <Compile Include="Abstract\IGenericDal.cs" />
     <Compile Include="Abstract\IOrderDal.cs" />
-    <Compile Include="Abstract\IProductDal.cs" />
+    <Compile Include="Abstract\IproductDal.cs" />
     <Compile Include="Context\KampContext.cs" />
-    <Compile Include="EntitiyFramework\EfAdmindal.cs" />
+    <Compile Include="EntitiyFramework\EfAdminDal.cs" />
     <Compile Include="EntitiyFramework\EfCatagoryDal.cs" />
     <Compile Include="EntitiyFramework\EfCustomerDal.cs" />
     <Compile Include="EntitiyFramework\EfOrderDal.cs" />

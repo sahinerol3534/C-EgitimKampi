@@ -25,7 +25,8 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
          * se kullanıcıya uyarı verilmesi.
          */
         public bool CatagoryStatus { get; set; }
-        public List<Product> products { get; set; }
+        public List<Product> Products { get; set; }
+
 
     }
 }

@@ -17,48 +17,55 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
         {
             _customerDal = customerDal;
         }
+
         public void TDelete(Customer entity)
         {
             _customerDal.Delete(entity);
         }
+
         public List<Customer> TGetAll()
         {
-            // if (yetki varsa )
-            //{
-                //Listeleme yap
-            //}
-            //else
-            //{
-               //uyarı ver
-            //}
-
-           return _customerDal.GetAll();
+            /*
+             if (yetki varsa)
+             {
+                  listele
+             }
+             else 
+             {
+                  hata mesajı ver
+             }
+            */
+            return _customerDal.GetAll();
         }
+
         public Customer TGetById(int id)
         {
-           return _customerDal.GetById(id);
+            return _customerDal.GetById(id);
         }
+
         public void TInsert(Customer entity)
         {
-            if(entity.CustomerName != null && entity.CustomerName.Length>=2 && entity.CustomerCity!= null 
-                && entity.CustomerSurname!=null && entity.CustomerName.Length<=30)
+            if (entity.CustomerName != null && entity.CustomerName.Length >= 3
+                && entity.CustomerCity != null && entity.CustomerSurname != null && entity.CustomerName.Length <= 30)
             {
+                // ekleme işlemi yap
                 _customerDal.Insert(entity);
             }
             else
             {
-               // hata mesajı ver
+                // Hata mesajı ver
             }
         }
+
         public void TUpdate(Customer entity)
         {
-            if (entity.CustomerId != null && entity.CustomerCity.Length >= 3)
+            if (entity.CustomerId != 0 && entity.CustomerCity.Length >= 3)
             {
                 _customerDal.Update(entity);
             }
             else
             {
-                // Hata mesajı ver
+                // hata mesajı ver
             }
         }
     }
