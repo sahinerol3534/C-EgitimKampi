@@ -21,3 +21,4 @@ C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentati
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
 C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmCatagory.resources
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmProduct.resources

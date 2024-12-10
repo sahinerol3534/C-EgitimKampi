@@ -276,18 +276,37 @@
 
 <div style="display: flex; align-items: center;">
         <img src="20.jpeg" alt="" width="80px">
-        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 19: C#  Dependency Injection </strong></span><br>
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 20: C#  Dependency Injection </strong></span><br>
   </div> 
  
      
 
    <p style="font-family: Arial; font-size: 12pt;">
-   Bu projede; ..................... .
+   Bu projede; Dependency Injection kullanarak FrmCatogory adlı form oluşturarak;<br>
+   *** listele<br>
+   *** Sil<br>
+   *** Güncelle<br>
+   *** Id'ye Göre Getir <br>
+   işlemlerini yaptık.
        
 </p>
 --------------------------------------------<br><br>
 
 
+<div style="display: flex; align-items: center;">
+        <img src="21.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 21: C#   Entitye Özgü Metot Yazmak</strong></span><br>
+  </div> 
+ 
+     
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; Ders 20 nin devamı olarak FrmProducts adlı form oluşturduk.
+   Bu formda;<br>
+   *** Listele Butonu tıklayarak ve database'deki verileri listeledik. Bu listelemede CatagorName için Entity Özel Metod yazdık.
+       
+</p>
+--------------------------------------------<br><br>
 
 
 
