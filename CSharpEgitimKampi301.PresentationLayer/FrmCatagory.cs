@@ -82,5 +82,10 @@ namespace CSharpEgitimKampi301.PresentationLayer
             MessageBox.Show("Güncelleme Başarılı");
             ClearTextBoxes();
         }
+
+        private void FrmCatagory_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -38,6 +38,11 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
             _productDal.Insert(entity);
         }
 
+        public void TInsert(PresentationLayer.Product product)
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Product entity)
         {
             _productDal.Update(entity);

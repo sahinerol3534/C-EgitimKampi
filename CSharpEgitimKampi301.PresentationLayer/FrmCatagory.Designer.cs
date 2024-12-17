@@ -200,6 +200,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmCatagory";
             this.Text = "FrmCatagory";
+            this.Load += new System.EventHandler(this.FrmCatagory_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

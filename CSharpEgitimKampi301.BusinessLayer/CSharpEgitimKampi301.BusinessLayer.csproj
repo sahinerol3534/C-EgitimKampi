@@ -50,6 +50,7 @@
     <Compile Include="Concrete\CustomerManager.cs" />
     <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Concrete\OrderManager.cs" />
+    <Compile Include="CSharpEgitimKampi301\PresentationLayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
