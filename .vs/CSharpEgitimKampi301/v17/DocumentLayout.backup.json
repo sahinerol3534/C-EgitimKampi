@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\sahinerol\\muratyucedagc#\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B0DADF-206E-48C9-BAB8-A226ADD2E5BC}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\csharpegitimkampi301.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4788D8E-DAE9-4111-B8C6-5CC5106EE077}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\csharpegitimkampi301.businesslayer\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4788D8E-DAE9-4111-B8C6-5CC5106EE077}|CSharpEgitimKampi301.BusinessLayer\\CSharpEgitimKampi301.BusinessLayer.csproj|solutionrelative:csharpegitimkampi301.businesslayer\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C35E2BEB-41C9-4373-A6C8-81FAFA2E41E1}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcatagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -49,67 +45,68 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\Program.cs",
+              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\Program.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:15:39.351Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:13:00.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.BusinessLayer\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.BusinessLayer\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.BusinessLayer\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:07:32.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmCatagory.cs",
               "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
               "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
               "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswFEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:33:20.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T21:36:49.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FrmCatagory.cs [Design]",
               "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs",
               "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs [Design]",
               "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCatagory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:32:39.837Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmProduct.cs",
-              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
-              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs*",
-              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs*",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:06:43.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmProduct.cs [Design]",
-              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
-              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs [Design]*",
-              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:06:39.463Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\Program.cs",
-              "ToolTip": "C:\\SahinEROL\\muratYucedagC#\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\Program.cs",
-              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:03:03.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T21:36:41.948Z"
             }
           ]
         }

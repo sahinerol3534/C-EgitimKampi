@@ -326,7 +326,7 @@
 
 <div style="display: flex; align-items: center;">
         <img src="23.jpeg" alt="" width="80px">
-        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 22: C#   Dapper</strong></span><br>
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 23: C#   Dapper</strong></span><br>
   </div> 
  
      
@@ -345,6 +345,21 @@
 </p>
 --------------------------------------------<br><br>
 
+<div style="display: flex; align-items: center;">
+        <img src="24.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 24: C#  MongoDB </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; MongoDB ye giriş yaptık. Form oluşturarak Collection açtık ve Bson Dokument oluşturduk. Örnek veri girişi yaptık.
+
+
+  
+      
+</p>
+--------------------------------------------<br><br>
 
 
 
