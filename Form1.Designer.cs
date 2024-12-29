@@ -46,6 +46,7 @@
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
+            this.btngetById = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -61,32 +62,33 @@
             // 
             // txtCustomerId
             // 
-            this.txtCustomerId.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtCustomerId.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerId.Location = new System.Drawing.Point(145, 33);
             this.txtCustomerId.Name = "txtCustomerId";
-            this.txtCustomerId.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerId.Size = new System.Drawing.Size(193, 22);
             this.txtCustomerId.TabIndex = 1;
             // 
             // btnList
             // 
             this.btnList.BackColor = System.Drawing.Color.MediumTurquoise;
             this.btnList.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnList.Location = new System.Drawing.Point(145, 249);
+            this.btnList.Location = new System.Drawing.Point(145, 235);
             this.btnList.Name = "btnList";
             this.btnList.Size = new System.Drawing.Size(155, 38);
             this.btnList.TabIndex = 2;
             this.btnList.Text = "Listele";
             this.btnList.UseVisualStyleBackColor = false;
+            this.btnList.Click += new System.EventHandler(this.btnList_Click);
             // 
             // dataGridView1
             // 
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(322, 33);
+            this.dataGridView1.Location = new System.Drawing.Point(344, 33);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(628, 239);
+            this.dataGridView1.Size = new System.Drawing.Size(1000, 416);
             this.dataGridView1.TabIndex = 3;
             // 
             // txtCustomerName
@@ -94,7 +96,7 @@
             this.txtCustomerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerName.Location = new System.Drawing.Point(145, 66);
             this.txtCustomerName.Name = "txtCustomerName";
-            this.txtCustomerName.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerName.Size = new System.Drawing.Size(193, 27);
             this.txtCustomerName.TabIndex = 5;
             // 
             // label2
@@ -112,7 +114,7 @@
             this.txtCustomerCity.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerCity.Location = new System.Drawing.Point(145, 132);
             this.txtCustomerCity.Name = "txtCustomerCity";
-            this.txtCustomerCity.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerCity.Size = new System.Drawing.Size(193, 27);
             this.txtCustomerCity.TabIndex = 9;
             // 
             // label3
@@ -130,7 +132,7 @@
             this.txtCustomerSurname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerSurname.Location = new System.Drawing.Point(145, 99);
             this.txtCustomerSurname.Name = "txtCustomerSurname";
-            this.txtCustomerSurname.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerSurname.Size = new System.Drawing.Size(193, 27);
             this.txtCustomerSurname.TabIndex = 7;
             // 
             // label4
@@ -148,7 +150,7 @@
             this.txtCustomerShoppingCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerShoppingCount.Location = new System.Drawing.Point(145, 198);
             this.txtCustomerShoppingCount.Name = "txtCustomerShoppingCount";
-            this.txtCustomerShoppingCount.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerShoppingCount.Size = new System.Drawing.Size(193, 27);
             this.txtCustomerShoppingCount.TabIndex = 13;
             // 
             // label5
@@ -166,7 +168,7 @@
             this.txtCustomerBalance.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtCustomerBalance.Location = new System.Drawing.Point(145, 165);
             this.txtCustomerBalance.Name = "txtCustomerBalance";
-            this.txtCustomerBalance.Size = new System.Drawing.Size(155, 27);
+            this.txtCustomerBalance.Size = new System.Drawing.Size(193, 27);
             this.txtCustomerBalance.TabIndex = 11;
             // 
             // label6
@@ -194,7 +196,7 @@
             // 
             this.btnAdd.BackColor = System.Drawing.Color.MediumTurquoise;
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnAdd.Location = new System.Drawing.Point(145, 293);
+            this.btnAdd.Location = new System.Drawing.Point(145, 279);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(155, 38);
             this.btnAdd.TabIndex = 15;
@@ -206,29 +208,44 @@
             // 
             this.btnDelete.BackColor = System.Drawing.Color.MediumTurquoise;
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDelete.Location = new System.Drawing.Point(145, 337);
+            this.btnDelete.Location = new System.Drawing.Point(145, 323);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(155, 38);
             this.btnDelete.TabIndex = 16;
             this.btnDelete.Text = "Sil";
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnUpdate
             // 
             this.btnUpdate.BackColor = System.Drawing.Color.MediumTurquoise;
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnUpdate.Location = new System.Drawing.Point(145, 381);
+            this.btnUpdate.Location = new System.Drawing.Point(145, 367);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(155, 38);
             this.btnUpdate.TabIndex = 17;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // btngetById
+            // 
+            this.btngetById.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.btngetById.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btngetById.Location = new System.Drawing.Point(145, 411);
+            this.btngetById.Name = "btngetById";
+            this.btngetById.Size = new System.Drawing.Size(155, 38);
+            this.btngetById.TabIndex = 18;
+            this.btngetById.Text = "Id\'ye Göre Getir";
+            this.btngetById.UseVisualStyleBackColor = false;
+            this.btngetById.Click += new System.EventHandler(this.btngetById_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(962, 450);
+            this.ClientSize = new System.Drawing.Size(1356, 469);
+            this.Controls.Add(this.btngetById);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnAdd);
@@ -276,6 +293,7 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.Button btngetById;
     }
 }
 
