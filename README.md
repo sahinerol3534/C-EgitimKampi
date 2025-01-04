@@ -337,11 +337,8 @@
    * Ürün Ekleme <br>
    * Ürün Silme <br>
    * Ürün Güncelleme<br>
-   ve değişik istatistik sonuçlar için sorgu kodları yazdık
+   ve değişik istatistik sonuçlar için sorgu kodları yazdık.
 
-
-  
-      
 </p>
 --------------------------------------------<br><br>
 
@@ -355,9 +352,54 @@
    <p style="font-family: Arial; font-size: 12pt;">
    Bu projede; MongoDB ye giriş yaptık. Form oluşturarak Collection açtık ve Bson Dokument oluşturduk. Örnek veri girişi yaptık.
 
+</p>
+--------------------------------------------<br><br>
 
-  
-      
+
+<div style="display: flex; align-items: center;">
+        <img src="25.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 25: C#  MongoDB kullanımı ikinci bölüm </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; MongoDB de; <br>
+   * Ürün Listeleme <br>
+   * Ürün Ekleme <br>
+   * Ürün Silme <br>
+   * Ürün Güncelleme<br>
+   ve değişik istatistik sonuçlar için sorgu kodları yazdık
+
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="26.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 26: C#  PostgreSQL e giriş </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede; PostgreSQL e giriş yaptık. pgAdmin4 arayüzü kullanarak Customer tablosu oluşturduk.
+
+</p>
+--------------------------------------------<br><br>
+
+
+<div style="display: flex; align-items: center;">
+        <img src="27.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 27: C#  PostgreSQL </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  Bu projede; PostgreSQL de; <br>
+   Employees tablosu ve Departments tabloları oluşturarak iki tabloyu birbiriyle ilişkilendirdik.<br>
+   * Ürün Listeleme <br>
+   * Ürün Ekleme <br>      
 </p>
 --------------------------------------------<br><br>
 
