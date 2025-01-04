@@ -399,7 +399,8 @@
    Bu projede;  Bu projede; PostgreSQL de; <br>
    Employees tablosu ve Departments tabloları oluşturarak iki tabloyu birbiriyle ilişkilendirdik.<br>
    * Ürün Listeleme <br>
-   * Ürün Ekleme <br>      
+   * Ürün Ekleme <br>  
+   işlemleri yaptık.<br>    
 </p>
 --------------------------------------------<br><br>
 
