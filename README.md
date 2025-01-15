@@ -405,6 +405,44 @@
 --------------------------------------------<br><br>
 
 
+<div style="display: flex; align-items: center;">
+        <img src="28.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 28: C#  FinancialCrm </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  Bu projede; Final Projesi FinalCrm'ye başladık<br> 
+   Database ve tabloları,<br>
+   WindowsForm oluşturduk.   
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="29.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 27: C# FinancialCrm  </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   Bu projede;  Bir ders önce başladığımız FinancialCrm projesine devam ettik.    
+</p>
+--------------------------------------------<br><br>
+
+<div style="display: flex; align-items: center;">
+        <img src="30.jpeg" alt="" width="80px">
+        <span style="font-size: 18pt; margin-left: 10px;"><strong>Proje 30: C# FinancialCrm  </strong></span><br>
+  </div> 
+ 
+    
+
+   <p style="font-family: Arial; font-size: 12pt;">
+   ve Final....<br>
+   28. derste başladığımız Final projemiz FinancialCrm'yi tamamladık.    
+</p>
+--------------------------------------------<br><br>
 
 
 
